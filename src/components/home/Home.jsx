@@ -31,7 +31,7 @@ const HomePage = () => {
               <h2 className="text-base uppercase font-titleFont mb-4">
                 <u>Find me in</u>
               </h2>
-              <div className="flex gap-4 m-10 bg-slate-300 ">
+              <div className="flex gap-4">
                 <a href="https://www.facebook.com/manojbhatt224" className="bannerIcon rounded-full p-2 hover:bg-blue-400">
                   <FaFacebookF />
                 </a>
