@@ -7,7 +7,7 @@ export const experiences = [
         title: "Associate Software Developer",
         des:"Working as a full stack developer using react js and node js express for current project for a digital addressing system.",
         src: "/ramropostal.png",
-        duration: "Jul 2024 to Current",
+        duration: "Jan 2024 to Current",
         gitLink: "https://github.com/manojbhatt224/Mobile_Sales_and_Customer_Management_System"
       },
       {
